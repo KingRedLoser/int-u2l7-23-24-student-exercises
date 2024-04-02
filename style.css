@@ -7,19 +7,19 @@
 
 
 /* 2. Change the background color so that it contrasts well with the text. 
-    What color do you think would provide a good contrast with red? 
+    What color do you think would provide a good contrast with red? White
     (Hint: Remember lighter colors contrast best with darker colors and vice versa). */
 
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
+    background-color: black;
     color: #eb2626;
 }
 
 
 .food-pic {
-    width: 200px;
+    width: 100px;
 }
 
 .title {
